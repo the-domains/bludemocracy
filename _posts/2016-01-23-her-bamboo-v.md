@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T04:00:21.516Z'
-dateModified: '2016-01-23T04:00:12.910Z'
+datePublished: '2016-01-23T04:01:20.003Z'
+dateModified: '2016-01-23T04:01:16.063Z'
 title: 'Her Bamboo V '
 author: []
 sourcePath: _posts/2016-01-23-her-bamboo-v.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: her-bamboo-v/index.html
-_type: Blurb
+_type: Article
 
 ---
 Her Bamboo V
