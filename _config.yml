@@ -1,0 +1,28 @@
+name: bluDemocracy
+favicon: null
+layout_spectrum: 0.9422312583774328
+typography_spectrum: 0.4944404289126396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9920055065304041
+  lightness: 0.03415706614032388
+  saturation: 0.2843780852854252
+  rhythmicContrast: 0.4496692295651883
+purpose: []
