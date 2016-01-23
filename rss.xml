@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bluDemocracy]]></title>
         <description><![CDATA[bluDemocracy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bludemocracy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 02:54:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 04:01:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bludemocracy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Her Bamboo V ]]></title>
+            <description><![CDATA[<article><h1>Her Bamboo V </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28181a206a0cb10c7140ae312d9281504ce70439.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bludemocracy/her-bamboo-v/index.html</link>
+            <guid isPermaLink="false">e1a7e5dd-af3e-423d-8f14-17e3ca17d009</guid>
+            <pubDate>Sat, 23 Jan 2016 04:01:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc1a43be-fb8d-4d98-b88c-ec78166c424f.jpg">]]></description>
-            <link>undefinedbb808882-df1e-4aa5-a689-d63c673fc36a/index.html</link>
+            <link>https://thegrid.ai/bludemocracy/bb808882-df1e-4aa5-a689-d63c673fc36a/index.html</link>
             <guid isPermaLink="false">bb808882-df1e-4aa5-a689-d63c673fc36a</guid>
             <pubDate>Sat, 23 Jan 2016 02:54:22 GMT</pubDate>
         </item>
